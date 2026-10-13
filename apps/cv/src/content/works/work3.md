@@ -15,7 +15,9 @@ tags:
     tooltip: "Integrated our software into 1st and 3rd party kitchen appliances."
 ---
 
-- First hire @ Fresco (then 'Drop').
-- Built native iOS companion app for hardware scales with interactive recipe walkthroughs and dynamic scaling.
-- Expanded interactive recipe concepts and added more kitchen BLE device support.
+- First hire and sole software engineer; built Drop's native iOS app end to end.
+- Shipped the app through launch and Apple Store rollout in the US, Canada, UK, Australia and NZ.
+- Added interactive recipe walkthroughs, dynamic scaling and more BLE kitchen devices.
+- App praised by WIRED as "the most important part of the package".
+- Product won Best Consumer Product at Launch Festival 2014 and raised a $2M seed.
 - [*Drop Scale Review - The Easy-to-Use Guided Smart Kitchen Scale*](https://www.youtube.com/watch?v=pGcAICJw_vA "@[Drop Scale Review](https://www.youtube.com/watch?v=pGcAICJw_vA)")

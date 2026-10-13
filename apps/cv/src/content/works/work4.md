@@ -10,9 +10,6 @@ tags:
     tooltip: "Taught HDIP part-time course in Software Development at TUD."
 ---
 
-- Software Architect @ [To Be A Machine 1.0](https://www.deadcentre.org/tobeamachine "@[To Be A Machine](https://www.deadcentre.org/tobeamachine)") (theatre, Jack Gleeson)
-- University Lecturer @ [TU Dublin](https://www.tudublin.ie/ "@[TU Dublin](https://www.tudublin.ie/)") (part time, software engineering)
-- iOS Freelancer since iOS 5.0.
-  - [Soundwave](https://en.wikipedia.org/wiki/Soundwave_(app) "@[Soundwave](https://en.wikipedia.org/wiki/Soundwave_(app))") (Acquired by Spotify)
-  - [FanFootage](https://sportstechireland.com/companies/fanfootage/ "@[FanFootage](https://sportstechireland.com/companies/fanfootage/)")
-  - [EasyJet](https://www.prnewswire.com/news-releases/travelport-acquires-mobile-travel-technologies-ltd-mtt-300109293.html "@[EasyJet](https://www.prnewswire.com/news-releases/travelport-acquires-mobile-travel-technologies-ltd-mtt-300109293.html)") (Acquired by Travelport)
+- iOS freelancer since 2011; shipped apps for [Soundwave](https://en.wikipedia.org/wiki/Soundwave_(app) "@[Soundwave](https://en.wikipedia.org/wiki/Soundwave_(app))") (acquired by Spotify), [easyJet](https://www.prnewswire.com/news-releases/travelport-acquires-mobile-travel-technologies-ltd-mtt-300109293.html "@[easyJet](https://www.prnewswire.com/news-releases/travelport-acquires-mobile-travel-technologies-ltd-mtt-300109293.html)") (via Mobile Travel Technologies, acquired by Travelport) and [FanFootage](https://sportstechireland.com/companies/fanfootage/ "@[FanFootage](https://sportstechireland.com/companies/fanfootage/)").
+- Software Architect, [To Be a Machine 1.0](https://www.deadcentre.org/tobeamachine "@[To Be a Machine](https://www.deadcentre.org/tobeamachine)") (Dead Centre, Jack Gleeson): platform for online participation in live theatre, Dublin Theatre Festival 2020.
+- Designed and taught an HDip course in Mobile Software Development at [TU Dublin](https://www.tudublin.ie/ "@[TU Dublin](https://www.tudublin.ie/)") (2015, part-time, 83% pass rate).
